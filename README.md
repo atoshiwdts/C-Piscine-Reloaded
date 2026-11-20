@@ -1,4 +1,4 @@
-## ALL the file of the libft
+## ALL the files of the libft
 
 - ex00/exo.tar
 - ex01/z
